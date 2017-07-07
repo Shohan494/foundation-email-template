@@ -1,0 +1,1048 @@
+
+.another {
+    color: white;
+    font-family: monospace;
+    font-size: 70px;
+    font-weight: bold;
+    margin-top: -22px;
+    opacity: 0.7;
+}
+.stick {
+    font-size: 110px;
+}
+.wrapper {
+    width: 100%;
+}
+#outlook a {
+    padding: 0;
+}
+body {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 100%;
+    padding: 0;
+    width: 100%;
+}
+.ExternalClass {
+    width: 100%;
+}
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+    line-height: 100%;
+}
+#backgroundTable {
+    line-height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+img {
+    clear: both;
+    display: block;
+    max-width: 100%;
+    outline: medium none;
+    text-decoration: none;
+    width: auto;
+}
+center {
+    min-width: 580px;
+    width: 100%;
+}
+a img {
+    border: medium none;
+}
+p {
+    margin: 0 0 0 10px;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+td {
+    border-collapse: collapse;
+    hyphens: auto;
+    overflow-wrap: break-word;
+}
+table, tr, td {
+    padding: 0;
+    text-align: left;
+    vertical-align: top;
+}
+@media only screen {
+html {
+    background: #f3f3f3 none repeat scroll 0 0;
+    min-height: 100%;
+}
+}
+table.body {
+    background: #f3f3f3 none repeat scroll 0 0;
+    height: 100%;
+    width: 100%;
+}
+table.container {
+    background: #fefefe none repeat scroll 0 0;
+    margin: 0 auto;
+    text-align: inherit;
+    width: 580px;
+}
+table.row {
+    padding: 0;
+    position: relative;
+    width: 100%;
+}
+table.spacer {
+    width: 100%;
+}
+table.spacer td {
+}
+table.container table.row {
+    display: table;
+}
+td.columns, td.column, th.columns, th.column {
+    margin: 0 auto;
+    padding-bottom: 0;
+    padding-left: 16px;
+}
+td.columns .column, td.columns .columns, td.column .column, td.column .columns, th.columns .column, th.columns .columns, th.column .column, th.column .columns {
+    padding-left: 0;
+    padding-right: 0;
+}
+td.columns .column center, td.columns .columns center, td.column .column center, td.column .columns center, th.columns .column center, th.columns .columns center, th.column .column center, th.column .columns center {
+}
+td.columns.last, td.column.last, th.columns.last, th.column.last {
+    padding-right: 16px;
+}
+td.columns table:not(.button), td.column table:not(.button), th.columns table:not(.button), th.column table:not(.button) {
+    width: 100%;
+}
+td.large-1, th.large-1 {
+    padding-left: 8px;
+    padding-right: 8px;
+    width: 32.3333px;
+}
+td.large-1.first, th.large-1.first {
+    padding-left: 16px;
+}
+td.large-1.last, th.large-1.last {
+    padding-right: 16px;
+}
+.collapse > tbody > tr > td.large-1, .collapse > tbody > tr > th.large-1 {
+    padding-left: 0;
+    padding-right: 0;
+    width: 48.3333px;
+}
+.collapse td.large-1.first, .collapse th.large-1.first, .collapse td.large-1.last, .collapse th.large-1.last {
+    width: 56.3333px;
+}
+td.large-1 center, th.large-1 center {
+    min-width: 0.33333px;
+}
+.body .columns td.large-1, .body .column td.large-1, .body .columns th.large-1, .body .column th.large-1 {
+    width: 8.33333%;
+}
+td.large-2, th.large-2 {
+    padding-left: 8px;
+    padding-right: 8px;
+    width: 80.6667px;
+}
+td.large-2.first, th.large-2.first {
+    padding-left: 16px;
+}
+td.large-2.last, th.large-2.last {
+    padding-right: 16px;
+}
+.collapse > tbody > tr > td.large-2, .collapse > tbody > tr > th.large-2 {
+    padding-left: 0;
+    padding-right: 0;
+    width: 96.6667px;
+}
+.collapse td.large-2.first, .collapse th.large-2.first, .collapse td.large-2.last, .collapse th.large-2.last {
+    width: 104.667px;
+}
+td.large-2 center, th.large-2 center {
+    min-width: 48.6667px;
+}
+.body .columns td.large-2, .body .column td.large-2, .body .columns th.large-2, .body .column th.large-2 {
+    width: 16.6667%;
+}
+td.large-3, th.large-3 {
+    padding-left: 8px;
+    padding-right: 8px;
+    width: 129px;
+}
+td.large-3.first, th.large-3.first {
+    padding-left: 16px;
+}
+td.large-3.last, th.large-3.last {
+    padding-right: 16px;
+}
+.collapse > tbody > tr > td.large-3, .collapse > tbody > tr > th.large-3 {
+    padding-left: 0;
+    padding-right: 0;
+    width: 145px;
+}
+.collapse td.large-3.first, .collapse th.large-3.first, .collapse td.large-3.last, .collapse th.large-3.last {
+    width: 153px;
+}
+td.large-3 center, th.large-3 center {
+    min-width: 97px;
+}
+.body .columns td.large-3, .body .column td.large-3, .body .columns th.large-3, .body .column th.large-3 {
+    width: 25%;
+}
+td.large-4, th.large-4 {
+    padding-left: 8px;
+    padding-right: 8px;
+    width: 177.333px;
+}
+td.large-4.first, th.large-4.first {
+    padding-left: 16px;
+}
+td.large-4.last, th.large-4.last {
+    padding-right: 16px;
+}
+.collapse > tbody > tr > td.large-4, .collapse > tbody > tr > th.large-4 {
+    padding-left: 0;
+    padding-right: 0;
+    width: 193.333px;
+}
+.collapse td.large-4.first, .collapse th.large-4.first, .collapse td.large-4.last, .collapse th.large-4.last {
+    width: 201.333px;
+}
+td.large-4 center, th.large-4 center {
+    min-width: 145.333px;
+}
+.body .columns td.large-4, .body .column td.large-4, .body .columns th.large-4, .body .column th.large-4 {
+    width: 33.3333%;
+}
+td.large-5, th.large-5 {
+    padding-left: 8px;
+    padding-right: 8px;
+    width: 225.667px;
+}
+td.large-5.first, th.large-5.first {
+    padding-left: 16px;
+}
+td.large-5.last, th.large-5.last {
+    padding-right: 16px;
+}
+.collapse > tbody > tr > td.large-5, .collapse > tbody > tr > th.large-5 {
+    padding-left: 0;
+    padding-right: 0;
+    width: 241.667px;
+}
+.collapse td.large-5.first, .collapse th.large-5.first, .collapse td.large-5.last, .collapse th.large-5.last {
+    width: 249.667px;
+}
+td.large-5 center, th.large-5 center {
+    min-width: 193.667px;
+}
+.body .columns td.large-5, .body .column td.large-5, .body .columns th.large-5, .body .column th.large-5 {
+    width: 41.6667%;
+}
+td.large-6, th.large-6 {
+    padding-left: 8px;
+    padding-right: 8px;
+    width: 274px;
+}
+td.large-6.first, th.large-6.first {
+    padding-left: 16px;
+}
+td.large-6.last, th.large-6.last {
+    padding-right: 16px;
+}
+.collapse > tbody > tr > td.large-6, .collapse > tbody > tr > th.large-6 {
+    padding-left: 0;
+    padding-right: 0;
+    width: 290px;
+}
+.collapse td.large-6.first, .collapse th.large-6.first, .collapse td.large-6.last, .collapse th.large-6.last {
+    width: 298px;
+}
+td.large-6 center, th.large-6 center {
+    min-width: 242px;
+}
+.body .columns td.large-6, .body .column td.large-6, .body .columns th.large-6, .body .column th.large-6 {
+    width: 50%;
+}
+td.large-7, th.large-7 {
+    padding-left: 8px;
+    padding-right: 8px;
+    width: 322.333px;
+}
+td.large-7.first, th.large-7.first {
+    padding-left: 16px;
+}
+td.large-7.last, th.large-7.last {
+    padding-right: 16px;
+}
+.collapse > tbody > tr > td.large-7, .collapse > tbody > tr > th.large-7 {
+    padding-left: 0;
+    padding-right: 0;
+    width: 338.333px;
+}
+.collapse td.large-7.first, .collapse th.large-7.first, .collapse td.large-7.last, .collapse th.large-7.last {
+    width: 346.333px;
+}
+td.large-7 center, th.large-7 center {
+    min-width: 290.333px;
+}
+.body .columns td.large-7, .body .column td.large-7, .body .columns th.large-7, .body .column th.large-7 {
+    width: 58.3333%;
+}
+td.large-8, th.large-8 {
+    padding-left: 8px;
+    padding-right: 8px;
+    width: 370.667px;
+}
+td.large-8.first, th.large-8.first {
+    padding-left: 16px;
+}
+td.large-8.last, th.large-8.last {
+    padding-right: 16px;
+}
+.collapse > tbody > tr > td.large-8, .collapse > tbody > tr > th.large-8 {
+    padding-left: 0;
+    padding-right: 0;
+    width: 386.667px;
+}
+.collapse td.large-8.first, .collapse th.large-8.first, .collapse td.large-8.last, .collapse th.large-8.last {
+    width: 394.667px;
+}
+td.large-8 center, th.large-8 center {
+    min-width: 338.667px;
+}
+.body .columns td.large-8, .body .column td.large-8, .body .columns th.large-8, .body .column th.large-8 {
+    width: 66.6667%;
+}
+td.large-9, th.large-9 {
+    padding-left: 8px;
+    padding-right: 8px;
+    width: 419px;
+}
+td.large-9.first, th.large-9.first {
+    padding-left: 16px;
+}
+td.large-9.last, th.large-9.last {
+    padding-right: 16px;
+}
+.collapse > tbody > tr > td.large-9, .collapse > tbody > tr > th.large-9 {
+    padding-left: 0;
+    padding-right: 0;
+    width: 435px;
+}
+.collapse td.large-9.first, .collapse th.large-9.first, .collapse td.large-9.last, .collapse th.large-9.last {
+    width: 443px;
+}
+td.large-9 center, th.large-9 center {
+    min-width: 387px;
+}
+.body .columns td.large-9, .body .column td.large-9, .body .columns th.large-9, .body .column th.large-9 {
+    width: 75%;
+}
+td.large-10, th.large-10 {
+    padding-left: 8px;
+    padding-right: 8px;
+    width: 467.333px;
+}
+td.large-10.first, th.large-10.first {
+    padding-left: 16px;
+}
+td.large-10.last, th.large-10.last {
+    padding-right: 16px;
+}
+.collapse > tbody > tr > td.large-10, .collapse > tbody > tr > th.large-10 {
+    padding-left: 0;
+    padding-right: 0;
+    width: 483.333px;
+}
+.collapse td.large-10.first, .collapse th.large-10.first, .collapse td.large-10.last, .collapse th.large-10.last {
+    width: 491.333px;
+}
+td.large-10 center, th.large-10 center {
+    min-width: 435.333px;
+}
+.body .columns td.large-10, .body .column td.large-10, .body .columns th.large-10, .body .column th.large-10 {
+    width: 83.3333%;
+}
+td.large-11, th.large-11 {
+    padding-left: 8px;
+    padding-right: 8px;
+    width: 515.667px;
+}
+td.large-11.first, th.large-11.first {
+    padding-left: 16px;
+}
+td.large-11.last, th.large-11.last {
+    padding-right: 16px;
+}
+.collapse > tbody > tr > td.large-11, .collapse > tbody > tr > th.large-11 {
+    padding-left: 0;
+    padding-right: 0;
+    width: 531.667px;
+}
+.collapse td.large-11.first, .collapse th.large-11.first, .collapse td.large-11.last, .collapse th.large-11.last {
+    width: 539.667px;
+}
+td.large-11 center, th.large-11 center {
+    min-width: 483.667px;
+}
+.body .columns td.large-11, .body .column td.large-11, .body .columns th.large-11, .body .column th.large-11 {
+    width: 91.6667%;
+}
+td.large-12, th.large-12 {
+    padding-left: 8px;
+    padding-right: 8px;
+    width: 564px;
+}
+td.large-12.first, th.large-12.first {
+    padding-left: 16px;
+}
+td.large-12.last, th.large-12.last {
+    padding-right: 16px;
+}
+.collapse > tbody > tr > td.large-12, .collapse > tbody > tr > th.large-12 {
+    padding-left: 0;
+    padding-right: 0;
+    width: 580px;
+}
+.collapse td.large-12.first, .collapse th.large-12.first, .collapse td.large-12.last, .collapse th.large-12.last {
+    width: 588px;
+}
+td.large-12 center, th.large-12 center {
+    min-width: 532px;
+}
+.body .columns td.large-12, .body .column td.large-12, .body .columns th.large-12, .body .column th.large-12 {
+    width: 100%;
+}
+td.large-offset-1, td.large-offset-1.first, td.large-offset-1.last, th.large-offset-1, th.large-offset-1.first, th.large-offset-1.last {
+    padding-left: 50.3333px;
+}
+td.large-offset-2, td.large-offset-2.first, td.large-offset-2.last, th.large-offset-2, th.large-offset-2.first, th.large-offset-2.last {
+    padding-left: 50.3333px;
+}
+td.large-offset-3, td.large-offset-3.first, td.large-offset-3.last, th.large-offset-3, th.large-offset-3.first, th.large-offset-3.last {
+    padding-left: 161px;
+}
+td.large-offset-4, td.large-offset-4.first, td.large-offset-4.last, th.large-offset-4, th.large-offset-4.first, th.large-offset-4.last {
+    padding-left: 209.333px;
+}
+td.large-offset-5, td.large-offset-5.first, td.large-offset-5.last, th.large-offset-5, th.large-offset-5.first, th.large-offset-5.last {
+    padding-left: 257.667px;
+}
+td.large-offset-6, td.large-offset-6.first, td.large-offset-6.last, th.large-offset-6, th.large-offset-6.first, th.large-offset-6.last {
+    padding-left: 306px;
+}
+td.large-offset-7, td.large-offset-7.first, td.large-offset-7.last, th.large-offset-7, th.large-offset-7.first, th.large-offset-7.last {
+    padding-left: 354.333px;
+}
+td.large-offset-8, td.large-offset-8.first, td.large-offset-8.last, th.large-offset-8, th.large-offset-8.first, th.large-offset-8.last {
+    padding-left: 402.667px;
+}
+td.large-offset-9, td.large-offset-9.first, td.large-offset-9.last, th.large-offset-9, th.large-offset-9.first, th.large-offset-9.last {
+    padding-left: 451px;
+}
+td.large-offset-10, td.large-offset-10.first, td.large-offset-10.last, th.large-offset-10, th.large-offset-10.first, th.large-offset-10.last {
+    padding-left: 499.333px;
+}
+td.large-offset-11, td.large-offset-11.first, td.large-offset-11.last, th.large-offset-11, th.large-offset-11.first, th.large-offset-11.last {
+    padding-left: 547.667px;
+}
+td.expander, th.expander {
+    padding: 0;
+    visibility: hidden;
+    width: 0;
+}
+table.container.radius {
+    border-collapse: separate;
+    border-radius: 0;
+}
+.block-grid {
+    max-width: 580px;
+    width: 100%;
+}
+.block-grid td {
+    display: inline-block;
+    padding: 8px;
+}
+.up-2 td {
+    width: 274px;
+}
+.up-3 td {
+    width: 177px;
+}
+.up-4 td {
+    width: 129px;
+}
+.up-5 td {
+    width: 100px;
+}
+.up-6 td {
+    width: 80px;
+}
+.up-7 td {
+    width: 66px;
+}
+.up-8 td {
+    width: 56px;
+}
+table.text-center, th.text-center, td.text-center, h1.text-center, h2.text-center, h3.text-center, h4.text-center, h5.text-center, h6.text-center, p.text-center, span.text-center {
+    text-align: center;
+}
+table.text-left, th.text-left, td.text-left, h1.text-left, h2.text-left, h3.text-left, h4.text-left, h5.text-left, h6.text-left, p.text-left, span.text-left {
+    text-align: left;
+}
+table.text-right, th.text-right, td.text-right, h1.text-right, h2.text-right, h3.text-right, h4.text-right, h5.text-right, h6.text-right, p.text-right, span.text-right {
+    text-align: right;
+}
+span.text-center {
+    display: block;
+    text-align: center;
+    width: 100%;
+}
+@media only screen and (max-width: 596px) {
+.small-float-center {
+    float: none;
+    margin: 0 auto;
+    text-align: center;
+}
+.small-text-center {
+    text-align: center;
+}
+.small-text-left {
+    text-align: left;
+}
+.small-text-right {
+    text-align: right;
+}
+}
+img.float-left {
+    float: left;
+    text-align: left;
+}
+img.float-right {
+    float: right;
+    text-align: right;
+}
+img.float-center, img.text-center {
+    float: none;
+    margin: 0 auto;
+    text-align: center;
+}
+table.float-center, td.float-center, th.float-center {
+    float: none;
+    margin: 0 auto;
+    text-align: center;
+}
+.hide-for-large {
+    display: none;
+    font-size: 0;
+    line-height: 0;
+    max-height: 0;
+    overflow: hidden;
+    width: 0;
+}
+@media only screen and (max-width: 596px) {
+.hide-for-large {
+    display: block;
+    font-size: inherit;
+    line-height: inherit;
+    max-height: none;
+    overflow: visible;
+    width: auto;
+}
+}
+table.body table.container .hide-for-large * {
+}
+@media only screen and (max-width: 596px) {
+table.body table.container .hide-for-large, table.body table.container .row.hide-for-large {
+    display: table;
+    width: 100%;
+}
+}
+@media only screen and (max-width: 596px) {
+table.body table.container .callout-inner.hide-for-large {
+    display: table-cell;
+    width: 100%;
+}
+}
+@media only screen and (max-width: 596px) {
+table.body table.container .show-for-large {
+    display: none;
+    overflow: hidden;
+    width: 0;
+}
+}
+body, table.body, h1, h2, h3, h4, h5, h6, td, th, a {
+    color: black;
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: normal;
+    line-height: 1.3;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: inherit;
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: normal;
+    margin-bottom: 0;
+    overflow-wrap: normal;
+}
+h1 {
+    font-size: 34px;
+}
+h2 {
+    font-size: 30px;
+}
+h3 {
+    font-size: 28px;
+}
+h4 {
+    font-size: 24px;
+}
+h5 {
+    font-size: 20px;
+}
+h6 {
+    font-size: 18px;
+}
+body, table.body, p, td, th {
+    font-size: 12px;
+    line-height: 1.3;
+}
+p {
+    color: black;
+    margin-bottom: 0;
+}
+p.lead {
+    font-size: 20px;
+    line-height: 1.6;
+}
+p.subheader {
+    color: #8a8a8a;
+    font-weight: normal;
+    line-height: 1.4;
+    margin-bottom: 8px;
+    margin-top: 4px;
+}
+small {
+    color: #cacaca;
+    font-size: 80%;
+}
+a {
+    color: #2199e8;
+    text-decoration: none;
+}
+a:hover {
+    color: #147dc2;
+}
+a:active {
+    color: #147dc2;
+}
+a:visited {
+    color: #2199e8;
+}
+h1 a, h1 a:visited, h2 a, h2 a:visited, h3 a, h3 a:visited, h4 a, h4 a:visited, h5 a, h5 a:visited, h6 a, h6 a:visited {
+    color: #2199e8;
+}
+pre {
+    background: #f3f3f3 none repeat scroll 0 0;
+    margin: 30px 0;
+}
+pre code {
+    color: #cacaca;
+}
+pre code span.callout {
+    color: #8a8a8a;
+    font-weight: bold;
+}
+pre code span.callout-strong {
+    color: #ff6908;
+    font-weight: bold;
+}
+table.hr {
+    width: 100%;
+}
+table.hr th {
+    border-color: currentcolor currentcolor #0a0a0a;
+    border-style: none none solid;
+    border-width: 0 0 1px;
+    clear: both;
+    height: 0;
+    margin: 20px auto;
+    max-width: 580px;
+}
+.stat {
+    font-size: 40px;
+    line-height: 1;
+}
+p + .stat {
+    margin-top: -16px;
+}
+span.preheader {
+    color: #f3f3f3;
+    display: none;
+    font-size: 1px;
+    line-height: 1px;
+    max-height: 0;
+    max-width: 0;
+    opacity: 0;
+    overflow: hidden;
+    visibility: hidden;
+}
+table.button {
+    margin: 0 0 16px;
+    width: auto;
+}
+table.button table td {
+    background: #2199e8 none repeat scroll 0 0;
+    border: 2px solid #2199e8;
+    color: #fefefe;
+    text-align: left;
+}
+table.button table td a {
+    border: 0 solid #2199e8;
+    border-radius: 3px;
+    color: #fefefe;
+    display: inline-block;
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+table.button.radius table td {
+    border: medium none;
+    border-radius: 3px;
+}
+table.button.rounded table td {
+    border: medium none;
+    border-radius: 500px;
+}
+table.button:hover table tr td a, table.button:active table tr td a, table.button table tr td a:visited, table.button.tiny:hover table tr td a, table.button.tiny:active table tr td a, table.button.tiny table tr td a:visited, table.button.small:hover table tr td a, table.button.small:active table tr td a, table.button.small table tr td a:visited, table.button.large:hover table tr td a, table.button.large:active table tr td a, table.button.large table tr td a:visited {
+    color: #fefefe;
+}
+table.button.tiny table td, table.button.tiny table a {
+    padding: 4px 8px;
+}
+table.button.tiny table a {
+    font-size: 10px;
+    font-weight: normal;
+}
+table.button.small table td, table.button.small table a {
+    font-size: 12px;
+    padding: 5px 10px;
+}
+table.button.large table a {
+    font-size: 20px;
+    padding: 10px 20px;
+}
+table.button.expand, table.button.expanded {
+    width: 100%;
+}
+table.button.expand table, table.button.expanded table {
+    width: 100%;
+}
+table.button.expand table a, table.button.expanded table a {
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
+    width: 100%;
+}
+table.button.expand center, table.button.expanded center {
+    min-width: 0;
+}
+table.button:hover table td, table.button:visited table td, table.button:active table td {
+    background: #147dc2 none repeat scroll 0 0;
+    color: #fefefe;
+}
+table.button:hover table a, table.button:visited table a, table.button:active table a {
+    border: 0 solid #147dc2;
+}
+table.button.secondary table td {
+    background: #777777 none repeat scroll 0 0;
+    border: 0 solid #777777;
+    color: #fefefe;
+}
+table.button.secondary table a {
+    border: 0 solid #777777;
+    color: #fefefe;
+}
+table.button.secondary:hover table td {
+    background: #919191 none repeat scroll 0 0;
+    color: #fefefe;
+}
+table.button.secondary:hover table a {
+    border: 0 solid #919191;
+}
+table.button.secondary:hover table td a {
+    color: #fefefe;
+}
+table.button.secondary:active table td a {
+    color: #fefefe;
+}
+table.button.secondary table td a:visited {
+    color: #fefefe;
+}
+table.button.success table td {
+    background: #3adb76 none repeat scroll 0 0;
+    border: 0 solid #3adb76;
+}
+table.button.success table a {
+    border: 0 solid #3adb76;
+}
+table.button.success:hover table td {
+    background: #23bf5d none repeat scroll 0 0;
+}
+table.button.success:hover table a {
+    border: 0 solid #23bf5d;
+}
+table.button.alert table td {
+    background: #ec5840 none repeat scroll 0 0;
+    border: 0 solid #ec5840;
+}
+table.button.alert table a {
+    border: 0 solid #ec5840;
+}
+table.button.alert:hover table td {
+    background: #e23317 none repeat scroll 0 0;
+}
+table.button.alert:hover table a {
+    border: 0 solid #e23317;
+}
+table.button.warning table td {
+    background: #ffae00 none repeat scroll 0 0;
+    border: 0 solid #ffae00;
+}
+table.button.warning table a {
+    border: 0 solid #ffae00;
+}
+table.button.warning:hover table td {
+    background: #cc8b00 none repeat scroll 0 0;
+}
+table.button.warning:hover table a {
+    border: 0 solid #cc8b00;
+}
+table.callout {
+    margin-bottom: 16px;
+}
+th.callout-inner {
+    background: #fefefe none repeat scroll 0 0;
+    border: 1px solid #cbcbcb;
+    padding: 10px;
+    width: 100%;
+}
+th.callout-inner.primary {
+    background: #def0fc none repeat scroll 0 0;
+    border: 1px solid #444444;
+    color: #0a0a0a;
+}
+th.callout-inner.secondary {
+    background: #ebebeb none repeat scroll 0 0;
+    border: 1px solid #444444;
+    color: #0a0a0a;
+}
+th.callout-inner.success {
+    background: #e1faea none repeat scroll 0 0;
+    border: 1px solid #1b9448;
+    color: #fefefe;
+}
+th.callout-inner.warning {
+    background: #fff3d9 none repeat scroll 0 0;
+    border: 1px solid #996800;
+    color: #fefefe;
+}
+th.callout-inner.alert {
+    background: #fce6e2 none repeat scroll 0 0;
+    border: 1px solid #b42912;
+    color: #fefefe;
+}
+.thumbnail {
+    border: 4px solid #fefefe;
+    border-radius: 3px;
+    box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
+    display: inline-block;
+    line-height: 0;
+    margin-bottom: 16px;
+    max-width: 100%;
+    transition: box-shadow 200ms ease-out 0s;
+}
+.thumbnail:hover, .thumbnail:focus {
+    box-shadow: 0 0 6px 1px rgba(33, 153, 232, 0.5);
+}
+table.menu {
+    width: 580px;
+}
+table.menu td.menu-item, table.menu th.menu-item {
+    padding: 10px;
+}
+table.menu td.menu-item a, table.menu th.menu-item a {
+    color: #2199e8;
+}
+table.menu.vertical td.menu-item, table.menu.vertical th.menu-item {
+    display: block;
+    padding: 10px 0 10px 10px;
+}
+table.menu.vertical td.menu-item a, table.menu.vertical th.menu-item a {
+    width: 100%;
+}
+table.menu.vertical td.menu-item table.menu.vertical td.menu-item, table.menu.vertical td.menu-item table.menu.vertical th.menu-item, table.menu.vertical th.menu-item table.menu.vertical td.menu-item, table.menu.vertical th.menu-item table.menu.vertical th.menu-item {
+    padding-left: 10px;
+}
+table.menu.text-center a {
+    text-align: center;
+}
+.menu[align="center"] {
+    width: auto;
+}
+body.outlook p {
+    display: inline;
+}
+@media only screen and (max-width: 596px) {
+table.body img {
+    height: auto;
+    width: auto;
+}
+table.body center {
+    min-width: 0;
+}
+table.body .container {
+    width: 95%;
+}
+table.body .columns, table.body .column {
+    box-sizing: border-box;
+    height: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+table.body .columns .column, table.body .columns .columns, table.body .column .column, table.body .column .columns {
+    padding-left: 0;
+    padding-right: 0;
+}
+table.body .collapse .columns, table.body .collapse .column {
+    padding-left: 0;
+    padding-right: 0;
+}
+td.small-1, th.small-1 {
+    display: inline-block;
+    width: 8.33333%;
+}
+td.small-2, th.small-2 {
+    display: inline-block;
+    width: 16.6667%;
+}
+td.small-3, th.small-3 {
+    display: inline-block;
+    width: 25%;
+}
+td.small-4, th.small-4 {
+    display: inline-block;
+    width: 33.3333%;
+}
+td.small-5, th.small-5 {
+    display: inline-block;
+    width: 41.6667%;
+}
+td.small-6, th.small-6 {
+    display: inline-block;
+    width: 50%;
+}
+td.small-7, th.small-7 {
+    display: inline-block;
+    width: 58.3333%;
+}
+td.small-8, th.small-8 {
+    display: inline-block;
+    width: 66.6667%;
+}
+td.small-9, th.small-9 {
+    display: inline-block;
+    width: 75%;
+}
+td.small-10, th.small-10 {
+    display: inline-block;
+    width: 83.3333%;
+}
+td.small-11, th.small-11 {
+    display: inline-block;
+    width: 91.6667%;
+}
+td.small-12, th.small-12 {
+    display: inline-block;
+    width: 100%;
+}
+.columns td.small-12, .column td.small-12, .columns th.small-12, .column th.small-12 {
+    display: block;
+    width: 100%;
+}
+table.body td.small-offset-1, table.body th.small-offset-1 {
+    margin-left: 8.33333%;
+}
+table.body td.small-offset-2, table.body th.small-offset-2 {
+    margin-left: 16.6667%;
+}
+table.body td.small-offset-3, table.body th.small-offset-3 {
+    margin-left: 25%;
+}
+table.body td.small-offset-4, table.body th.small-offset-4 {
+    margin-left: 33.3333%;
+}
+table.body td.small-offset-5, table.body th.small-offset-5 {
+    margin-left: 41.6667%;
+}
+table.body td.small-offset-6, table.body th.small-offset-6 {
+    margin-left: 50%;
+}
+table.body td.small-offset-7, table.body th.small-offset-7 {
+    margin-left: 58.3333%;
+}
+table.body td.small-offset-8, table.body th.small-offset-8 {
+    margin-left: 66.6667%;
+}
+table.body td.small-offset-9, table.body th.small-offset-9 {
+    margin-left: 75%;
+}
+table.body td.small-offset-10, table.body th.small-offset-10 {
+    margin-left: 83.3333%;
+}
+table.body td.small-offset-11, table.body th.small-offset-11 {
+    margin-left: 91.6667%;
+}
+table.body table.columns td.expander, table.body table.columns th.expander {
+    display: none;
+}
+table.body .right-text-pad, table.body .text-pad-right {
+    padding-left: 10px;
+}
+table.body .left-text-pad, table.body .text-pad-left {
+    padding-right: 10px;
+}
+table.menu {
+    width: 100%;
+}
+table.menu td, table.menu th {
+    display: inline-block;
+    width: auto;
+}
+table.menu.vertical td, table.menu.vertical th, table.menu.small-vertical td, table.menu.small-vertical th {
+    display: block;
+}
+table.menu[align="center"] {
+    width: auto;
+}
+table.button.small-expand, table.button.small-expanded {
+    width: 100%;
+}
+table.button.small-expand table, table.button.small-expanded table {
+    width: 100%;
+}
+table.button.small-expand table a, table.button.small-expanded table a {
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
+    width: 100%;
+}
+table.button.small-expand center, table.button.small-expanded center {
+    min-width: 0;
+}
+}
